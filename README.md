@@ -1,91 +1,137 @@
-# Hi, I'm Lucas Aires 👋
+<h1 align="center">Hi, I'm Lucas Aires 👋</h1>
 
-I'm a full-stack developer in constant evolution, building solid skills across the entire web stack.  
-My main focus is on **clean code**, **best practices**, **performance**, and **scalable solutions** ready for real-world use.
+<p align="center">
+  Developer in progress, moving step by step toward full‑stack — one project at a time.
+</p>
 
-I’m currently strengthening my skills in **HTML, CSS, JavaScript, React, Node.js and Python**, building a solid foundation to grow as a professional developer.
-
----
-
-## 🔧 Tech Stack & Current Focus
-
-- **Languages:** JavaScript, Python (learning), TypeScript (learning), HTML, CSS  
-- **Front-end:** React (learning), modern JavaScript (ES6+), responsive UI, dark/light mode interfaces  
-- **Back-end:** Node.js (learning), REST APIs, basic server-side logic  
-- **Data & Storage:** localStorage, JSON, basic data modeling  
-- **Tools & Platforms:** Git, GitHub, Vercel, API integration (HTTP/fetch, third‑party APIs, AI APIs)  
-- **Practices:** clean code, readability, performance, separation of concerns, continuous learning  
-
-> This profile is where I document my journey as I move from fundamentals to building real, production‑oriented solutions.
+<p align="center">
+  <a href="https://github.com/lucasairess">
+    <img src="https://img.shields.io/badge/GitHub-lucasairess-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucasairess/">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Aires-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-## 📌 Highlighted Projects
+## 👨‍💻 About me
 
-### 💸 FinanceFlow – Personal Finance Dashboard  
+I’m focused on building a solid foundation and creating projects that I would actually want to use myself.  
+Here on GitHub you’ll find:
 
-A complete personal finance management dashboard focused on **simplicity, performance** and a **premium visual experience**.
+- course projects (like those from **DevClub**),  
+- personal experiments,  
+- and small apps where I test ideas and new tools.
 
-- Dynamic summary cards (Income, Expenses, Total Balance)  
-- Complete cash flow management with visual categories (tags and icons)  
-- Monthly spending goals with progress bars and alerts when limits are exceeded  
-- Full **dark/light mode** support  
-- Built with **HTML5**, **CSS3** (custom Design System with CSS Variables) and **JavaScript (ES6+)**  
-- Charts and data visualization with **Chart.js**  
-- Deployed on **Vercel** for high performance and availability  
-
-💻 Source code: [FinanceFlow](https://github.com/lucasairess/FinanceFlow)  
-🔗 Live demo: (see links in the repository or on my LinkedIn)
+I care a lot about code that is **clean**, **readable** and **easy to maintain**, even in simple projects.
 
 ---
 
-### 🤖 AI‑Powered CSS & HTML Generator  
+## 🛠️ Tech stack & learning
 
-An AI‑powered web tool that generates **HTML and CSS** from natural language descriptions.
+### Languages
+- JavaScript
+- HTML, CSS
+- Python (learning)
+- TypeScript (learning)
 
-- You describe what you imagine (e.g. “a green pulsing button with hover effect”) and the AI generates the code in real time  
-- Live preview of the generated component plus the source code side by side  
-- Built **without frameworks and without build steps**, directly in the browser for maximum performance  
-- Integration with **LLaMA** models through the **Groq API**  
-- Focus on async API calls, error handling and instant DOM updates  
+### Front-end
+- Modern JavaScript (**ES6+**)
+- Responsive layouts
+- Dark/Light mode
+- React (learning)
 
-💻 Source code: [CSS Generator with AI – DevClub](https://github.com/lucasairess/gerador-css-ia-devclub)  
-🔗 Live demo: (see links in the repository or on my LinkedIn)
+### Back-end
+- Node.js (learning)
+- REST APIs
+- Basic server-side logic
 
----
-
-## 🎯 Learning Journey
-
-Right now, I’m focused on:
-
-- Consolidating my **full-stack skills** (front-end + back-end)  
-- Advancing in **React**, **Node.js** and **Python**  
-- Practicing **clean architecture**, modular code and good engineering practices  
-- Building projects that simulate **real business scenarios** and real users
-
-This GitHub includes:
-
-- Study repositories from courses (such as DevClub)  
-- Personal projects to practice fundamentals and new technologies  
-- Experiments with performance, UX, API integrations and AI
+### Tools & other stuff
+- JSON, simple data modeling
+- localStorage
+- Git & GitHub
+- Deploy (Vercel)
+- API integration (HTTP/fetch, third‑party APIs, AI APIs)
 
 ---
 
-## 🌍 Opportunities & Collaboration
+## ⭐ Highlighted projects
+
+### 💸 FinanceFlow – Personal finance dashboard
+
+A small app to help organize personal finances, with a clean and easy-to-read interface.
+
+**What it does**
+- Dynamic summary: income, expenses and balance
+- Categories with tags and icons
+- Monthly goals with progress bars
+- Dark/light mode support
+
+**Tech used**
+- **HTML5**, **CSS3** (CSS variables and basic design system)
+- **JavaScript (ES6+)**
+- **Chart.js**
+- Deployed on **Vercel**
+
+👉 Check the repository: **FinanceFlow** (code + live demo)
+
+---
+
+### 🤖 AI‑Powered HTML & CSS Generator
+
+A web tool that generates HTML and CSS from natural language descriptions.
+
+**Main features**
+- You describe what you want (e.g. “a green button with hover animation”) and the app builds the code
+- Live preview with code side by side
+- Built without frameworks, running in the browser
+
+**Tech used**
+- Vanilla **JavaScript**
+- Integration with LLaMA models via **Groq API**
+- Focus on async calls, error handling and DOM updates
+
+👉 Check the repository: **CSS Generator with AI – DevClub**
+
+---
+
+## 🎯 My current focus
+
+Right now I’m mainly:
+
+- strengthening my **front-end and back-end** fundamentals;  
+- leveling up in **React**, **Node.js** and **Python**;  
+- practicing good practices (organized, modular, testable code);  
+- building projects that feel close to real-world problems.
+
+I’m not trying to rush through technologies — I want to really understand what I use.
+
+---
+
+## 🌍 What I’m looking for
 
 I’m open to:
 
-- **Internship** and **junior** positions (including remote/ international roles)  
-- Collaborating on **open-source**, educational or experimental projects  
-- Working with teams that value **technical excellence**, **continuous learning** and **real impact through software**
+- **intern** and **junior** opportunities (remote is very welcome);  
+- collaborating on open source, educational or experimental projects;  
+- working with teams that value learning, collaboration and well-written software.
 
-If my profile aligns with what you’re looking for, feel free to reach out.
+If you think my profile fits your team or project, feel free to reach out.
 
 ---
 
 ## 📫 Where to find me
 
-- **GitHub:** [github.com/lucasairess](https://github.com/lucasairess)  
-- **LinkedIn:** [linkedin.com/in/lucasairess](https://www.linkedin.com/in/lucasairess/)  
+<p align="left">
+  <a href="https://github.com/lucasairess">
+    <img src="https://img.shields.io/badge/GitHub-lucasairess-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucasairess/">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Aires-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-Thanks for visiting my profile!
+<p align="left">
+  Thanks for stopping by! 👋
+</p>
