@@ -4,21 +4,12 @@
   Developer in progress, moving step by step toward full‑stack — one project at a time.
 </p>
 
-<p align="center">
-  <a href="https://github.com/lucasairess">
-    <img src="https://img.shields.io/badge/GitHub-lucasairess-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/lucasairess/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Aires-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About me
 
-I’m focused on building a solid foundation and creating projects that I would actually want to use myself.  
-Here on GitHub you’ll find:
+I'm focused on building a solid foundation and creating projects that I would actually want to use myself.  
+Here on GitHub you'll find:
 
 - course projects (like those from **DevClub**),  
 - personal experiments,  
@@ -83,7 +74,7 @@ A small app to help organize personal finances, with a clean and easy-to-read in
 A web tool that generates HTML and CSS from natural language descriptions.
 
 **Main features**
-- You describe what you want (e.g. “a green button with hover animation”) and the app builds the code
+- You describe what you want (e.g. "a green button with hover animation") and the app builds the code
 - Live preview with code side by side
 - Built without frameworks, running in the browser
 
@@ -98,20 +89,20 @@ A web tool that generates HTML and CSS from natural language descriptions.
 
 ## 🎯 My current focus
 
-Right now I’m mainly:
+Right now I'm mainly:
 
 - strengthening my **front-end and back-end** fundamentals;  
 - leveling up in **React**, **Node.js** and **Python**;  
 - practicing good practices (organized, modular, testable code);  
 - building projects that feel close to real-world problems.
 
-I’m not trying to rush through technologies — I want to really understand what I use.
+I'm not trying to rush through technologies — I want to really understand what I use.
 
 ---
 
-## 🌍 What I’m looking for
+## 🌍 What I'm looking for
 
-I’m open to:
+I'm open to:
 
 - **intern** and **junior** opportunities (remote is very welcome);  
 - collaborating on open source, educational or experimental projects;  
@@ -129,6 +120,9 @@ If you think my profile fits your team or project, feel free to reach out.
   </a>
   <a href="https://www.linkedin.com/in/lucasairess/">
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Aires-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/lucasairess/">
+    <img src="https://img.shields.io/badge/Instagram-lucasairess-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
