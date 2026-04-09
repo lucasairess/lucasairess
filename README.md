@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lucas Aires 👋</h1>
+<h1 align="center">Hi, I'm Lucas Aires 💻</h1>
 
 <p align="center">
   Developer in progress, moving step by step toward full‑stack — one project at a time.
@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About me
+## 👨🏻‍💻 About me
 
 I'm focused on building a solid foundation and creating projects that I would actually want to use myself.  
 Here on GitHub you'll find:
