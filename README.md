@@ -121,7 +121,7 @@ If you think my profile fits your team or project, feel free to reach out.
   <a href="https://www.linkedin.com/in/lucasairess/">
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Aires-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/lucasairess/">
+  <a href="https://www.instagram.com/lucas.airess/">
     <img src="https://img.shields.io/badge/Instagram-lucasairess-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
